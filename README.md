@@ -25,7 +25,7 @@ This is a web-based Contact Management System built entirely with Laravel, desig
 ## Basic Features
 
 * Create, read, update, and delete contacts
-* Categorize contacts into custom groups (e.g. friends, family, clients)
+* Categorize contacts into custom groups (e.g. friends, family, professionals)
 * Advanced search and filtering to quickly find any contact
 
 ## Advanced Features
