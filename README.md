@@ -30,9 +30,9 @@ This is a web-based Contact Management System built entirely with Laravel, desig
 
 ## Advanced Features
 
-* Import/export contacts in CSV and vCard formats
+* export contacts in CSV format
 * Secure contact sharing between users with role‑based permissions
-* Built‑in chatbot for instant, conversational help with your contact list
+* Built‑in chatbot help to create contacts via voice audio
 * Google OAuth for one‑click sign‑in
 
 ## Tech Stack
