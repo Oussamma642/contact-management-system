@@ -9,9 +9,6 @@ A Laravel-built web app that centralizes all your contacts with CRUD operations,
 - [Motivation](#motivation)
 - [Basic Features](#basic--features)
 - [Advances Features](#advances--features)
-- [Tech Stack](#tech-stack)
-- [Installation & Setup](#installation--setup)
-- [Usage](#usage)
 - [License](#license)
 
 
