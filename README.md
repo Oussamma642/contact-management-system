@@ -8,7 +8,7 @@ A Laravel-built web app that centralizes all your contacts with CRUD operations,
 - [Project Overview](#project-overview)
 - [Motivation](#motivation)
 - [Basic Features](#basic--features)
-- [Advances Features](#advances--features)
+- [Advanced Features](#advanced--features)
 - [License](#license)
 
 
@@ -27,7 +27,7 @@ This is a web-based Contact Management System built entirely with Laravel, desig
 - Categorize contacts into custom groups (e.g. friends, family, clients)
 - Advanced search and filtering to quickly find any contact
 
-## Advances Features
+## Advanced Features
 - Import/export contacts in CSV and vCard formats
 - Secure contact sharing between users with role‑based permissions
 - Built‑in chatbot for instant, conversational help with your contact list
